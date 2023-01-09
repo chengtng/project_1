@@ -1,4 +1,4 @@
-n_year,n_month,maximum_rainfall_in_a_day,no_of_rainy_days,total_rainfall,mean_rh,mean_sunshine_hrs,temp_mean_daily_min
+year,month,maximum_rainfall_in_a_day,no_of_rainy_days,total_rainfall,mean_rh,mean_sunshine_hrs,temp_mean_daily_min
 1982,1,36.5,10,107.1,81.2,5.6,23.3
 1982,2,9.4,5,27.8,79.5,7.6,23.9
 1982,3,61.7,11,160.8,82.3,5.1,24.3

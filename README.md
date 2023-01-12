@@ -1,21 +1,17 @@
-# ! Project 1: Exploring weather data in Singapore to save energy consumption for air-conditioning in building facilities management
+# Project 1: Data Analysis of Singapore Weather And Energy Consumption
 
 ### Problem Statement
 
 > * As a building facilities management company, we are looking to reduce our energy consumption for air-conditioning. This project aims to analyse the monthly weather patterns over the year to allow the operations team to better plan and allocate air-conditioning resources.
---
+
+---
 
 ### Datasets
-
-#### Provided Data
-
-There are 2 datasets included in the [`data`](./data/) folder for this project. These correponds to rainfall information. 
-
-* [`rainfall-monthly-number-of-rain-days.csv`](./data/rainfall-monthly-number-of-rain-days.csv): Monthly number of rain days from 1982 to 2022. A day is considered to have “rained” if the total rainfall for that day is 0.2mm or more.
-* [`rainfall-monthly-total.csv`](./data/rainfall-monthly-total.csv): Monthly total rain recorded in mm(millimeters) from 1982 to 2022
-
-Other relevant weather datasets from [data.gov.sg](data.gov.sg):
-
+#### Main Data 
+* [Monthly Number of Rain Days](./data/rainfall-monthly-number-of-rain-days.csv): <br>
+Monthly number of rain days from 1982 to 2022. A day is considered to have “rained” if the total rainfall for that day is 0.2mm or more.
+* [Total Monthly Rainfall](./data/rainfall-monthly-total.csv): <br>
+Monthly total rain recorded in mm(millimeters) from 1982 to 2022
 * [Relative Humidity](https://data.gov.sg/dataset/relative-humidity-monthly-mean)
 * [Monthly Maximum Daily Rainfall](https://data.gov.sg/dataset/rainfall-monthly-maximum-daily-total)
 * [Hourly wet bulb temperature](https://data.gov.sg/dataset/wet-bulb-temperature-hourly)
@@ -31,3 +27,5 @@ Other relevant weather datasets from [data.gov.sg](data.gov.sg):
 - Jupyter notebook
 - Data files
 - Presentation slides
+
+---

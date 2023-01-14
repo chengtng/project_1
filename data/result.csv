@@ -1,4 +1,4 @@
-year,month,maximum_rainfall_in_a_day,no_of_rainy_days,total_rainfall,mean_rh,mean_sunshine_hrs,temp_mean_daily_min,wet_bulb_temperature,Household Electricity Consumption (kWh)
+year,month,Mean Daily Maximum Rainfall (mm),Monthly rain days (days),Monthly total rainfall (mm),Mean Relative Humidity (%),Mean Daily Sunshine Hours (hours),Mean Daily Minimum Temperature (°C),Mean Daily Wet Bulb Temperature (°C),Household Electricity Consumption (kWh)
 2005,1,96.7,8,163.2,83.3,6.5,23.9,24.395967741935483,418.1
 2005,2,7.2,3,8.4,77.7,9.1,25.3,25.330357142857142,408.3
 2005,3,20.5,12,82.4,80.3,7.2,25.4,25.70577956989247,446.9
